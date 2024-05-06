@@ -1,0 +1,7 @@
+BizCardX-Extracting-Business-Card-Data-with-OCR
+
+BizCardX is a user-friendly tool for extracting information from business cards. The tool uses OCR technology to recognize text on business cards and extracts the data into a SQL database after classification using regular expressions. Users can access the extracted information using a GUI built using streamlit. The BizCardX application is a simple and intuitive user interface that guides users through the process of uploading the business card image and extracting its information. The extracted information would be displayed in a clean and organized manner, and users would be able to easily add it to the database with the click of a button. Further the data stored in database can be easily Read, updated and deleted by user as per the requirement.
+
+Developed a Streamlit application that enables users to input a business card image and use easyOCR to extract pertinent information from it. The name of the business and the cardholder should be among the extracted data.
+
+name, title, area, city, state, pin code, email address, phone number, and website URL. The graphical user interface (GUI) of the application should then display the retrieved data. Users should also be able to store the extracted data and the uploaded business card image in a database using the program. Multiple entries, each with its own business card image and extracted data, should be able to be stored in the database.
